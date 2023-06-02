@@ -7,3 +7,4 @@ Front : NextJS / TailwindCss (Packaje.json = les différentes dépendances/ libr
 
 +++++Folder pages : Index = home, projects, about (ce sont les fichers qui seront chargé sur la page web, les themes noire/blanche sont effectuées ici )
 # Mon_Portfolio_React
+# Mon_Portfolio_React
